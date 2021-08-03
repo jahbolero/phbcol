@@ -20746,7 +20746,7 @@
                       mo(56, 'p'),
                       Ho(
                         57,
-                        ' Selected representatives will be announced on June 22,2021 '
+                        ' Selected representatives will be announced on September 12,2021 '
                       ),
                       go(),
                       go(),
