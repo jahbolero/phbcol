@@ -20692,7 +20692,7 @@
                       mo(24, 'h5'),
                       Ho(
                         25,
-                        ' The Philippine Blockchain Olympiad is the national selection level where 8 teams will be selected to represent the Philippines in the International Blockchain Olympiad on July 2-4, 2021 '
+                        ' The Philippine Blockchain Olympiad is the national selection level where 8 teams will be selected to represent the Philippines in the International Blockchain Olympiad on October 8-10, 2021 '
                       ),
                       go(),
                       _o(26, 'br'),
